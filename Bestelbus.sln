@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bestelbus", "Priem\Bestelbus.csproj", "{4BE0C1D4-50BA-4E8F-8E11-6A0D4A91C6D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE0C1D4-50BA-4E8F-8E11-6A0D4A91C6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE0C1D4-50BA-4E8F-8E11-6A0D4A91C6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE0C1D4-50BA-4E8F-8E11-6A0D4A91C6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE0C1D4-50BA-4E8F-8E11-6A0D4A91C6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60FF013C-042E-467A-8EE4-6C243B7B3FE3}
+	EndGlobalSection
+EndGlobal
